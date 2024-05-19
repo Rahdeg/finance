@@ -8,6 +8,27 @@
       "when": 1715157679977,
       "tag": "0000_striped_wilson_fisk",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715767379924,
+      "tag": "0001_steep_captain_midlands",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715787400133,
+      "tag": "0002_ambitious_romulus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1716021337180,
+      "tag": "0003_burly_robbie_robertson",
+      "breakpoints": true
     }
   ]
 }
