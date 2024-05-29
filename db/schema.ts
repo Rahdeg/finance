@@ -83,3 +83,10 @@ export const subscriptions = pgTable("subscriptions", {
   subscriptionId: text("subscription_id").notNull().unique(),
   status: text("status").notNull(),
 });
+
+export const lastSub = pgTable("lastsub", {
+  id: text("id").primaryKey(),
+  userId: text("user_id").notNull().unique(),
+  subscriptionId: text("subscription_id").notNull().unique(),
+  status: text("status").notNull(),
+});
