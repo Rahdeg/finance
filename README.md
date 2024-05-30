@@ -20,6 +20,28 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Key Features:
+- 📊 Interactive financial dashboard
+- 🔁 Changeable chart types
+- 🗓 Account and date filters
+- 💹 Detailed transactions table
+- ➕ Form to add transactions
+- 🧩 Customizable select components
+- 💵 Income and expense toggle
+- 🔄 CSV transaction imports
+- 🔥 API via Hono.js
+- 🪝 State management via Tanstack React Query
+- 🔗 Bank account connections with Plaid
+- 💳 Premium upgrades via Lemon Squeezy
+- 🔐 Authentication via Clerk (Core 2)
+- 🗑 Bulk delete and search in transactions
+- ⚙️ Bank disconnection and subscription management
+- 👤 User settings customization
+- 🌐 Built with Next.js 14
+- 🎨 Styled with TailwindCSS and Shadcn UI
+- 💾 PostgreSQL & Drizzle ORM
+- 🚀 Deployed on Vercel
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
